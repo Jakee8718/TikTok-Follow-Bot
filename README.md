@@ -1,4 +1,7 @@
 # TikTok Botter
+
+
+##This was NOT made by me. I was just testing some features with python with this guys repository. Feel free to get the real one here  https://github.com/OriginalAlien/TikTokBotter
 Educational Purposes Only. Contact Dreamer#5114 for assistance.  
 
 Tool That Uses Zefoy To Bot Your TikTok Follow, Hearts, Views, & Shares!  
