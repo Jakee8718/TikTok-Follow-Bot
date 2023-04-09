@@ -4,8 +4,9 @@
 
 Get captcha key from [Here](https://dashboard.capsolver.com/passport/register?inviteCode=1-e-3mtQgLn7)
 
-
-
+```diff
++ Copy the API key and paste
+```
 
 
 ## This was NOT made by me. I was just testing some features with python with this guys repository. Feel free to get the real one here  https://github.com/OriginalAlien/TikTokBotter
